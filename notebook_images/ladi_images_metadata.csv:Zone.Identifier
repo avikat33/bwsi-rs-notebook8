@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://ladi.s3-us-west-2.amazonaws.com/index.html?prefix=Labels/
+HostUrl=http://ladi.s3-us-west-2.amazonaws.com/Labels/ladi_images_metadata.csv

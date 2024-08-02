@@ -1,0 +1,9 @@
+*.csv
+*.tsv
+**/*.ipynb_checkpoints/
+core.*
+epoch_checkpoints/*.pth
+ladi.s3-us-west-2.amazonaws.com/
+pytorch-hub-cache/
+=*.*
+outputs/
